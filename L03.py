@@ -1,4 +1,4 @@
-# http://www.pythonchallenge.com/pc/def/ocr.html
+# http://www.pythonchallenge.com/pc/def/equality.html
 from urllib.request import urlopen
 import re
 
